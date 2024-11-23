@@ -1,7 +1,7 @@
 ### Hi Developers 👋
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niranjan-raut/)](https://www.linkedin.com/in/niranjan-raut/)
+[![Linkedin Badge](https://img.shields.io/badge/-Niranjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/niranjan-raut/)](https://www.linkedin.com/in/niranjan-raut/)
 
 
 I'm
